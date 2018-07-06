@@ -8,7 +8,7 @@
 - It demonstrates components’ behaviour when they are not applied to the grid (app bar)
 - It illustrates how we imagine breakpoints will work on the submission wizard so that the same ideas can be applied to other screens
 
-##What this prototype does not cover
+## What this prototype does not cover
 - This example is based on the eLife grid, but it doesn’t necessarily propose that as an implementation in this case. A different grid system may behave differently and decisions will need to be made by reviewing the layout of the components on the new system
 - PubSweet may have a different approach to the eLife website in regard to a setting vertical space and alignment which will need to be considered
 
