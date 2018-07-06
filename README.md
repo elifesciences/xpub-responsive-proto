@@ -6,7 +6,7 @@
 - It demonstrates how components relate to the grid across varying viewport sizes
 - It demonstrates how we apply vertical space at eLife (gridUnit). This may need to differ for PubSweet
 - It demonstrates components’ behaviour when they are not applied to the grid (app bar)
-- It illustrates how we imagine breakpoints will work on the submission wizard so that the same ideas can be applied to other screens
+- It illustrates how we imagine breakpoints will work on the submission wizard so that the same ideas can be applied to other screens. At the moment there are two breakpoints in operation in this prototype: at 768px and 1000px.
 
 ## What this prototype does not cover
 - This example is based on the eLife grid, but it doesn’t necessarily propose that as an implementation in this case. A different grid system may behave differently and decisions will need to be made by reviewing the layout of the components on the new system
